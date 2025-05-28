@@ -1,2 +1,3 @@
 # Compara-o-de-uso-de-banda-entre-TCP-Flavors
 Análise comparativa do uso da banda de rede entre diferentes flavors do algoritmo TCP, responsáveis por controlar o congestionamento e a utilização da largura de banda. 
+O estudo envolve testes realizados com três diferentes flavors especı́fico do TCP, todos conectados à mesma rede e estabelecendo comunicação com o mesmo servidor. A metodologia inclui a medição de métricas como taxa de transferência, eficiência no uso da banda, latência e impacto do congestionamento em cenários controlados. Os resultados obtidos permitem avaliar o desempenho relativo de cada flavor em condições semelhantes, identificando suas vantagens e limitações em termos de estabilidade, equidade e adaptação a variações na rede.
